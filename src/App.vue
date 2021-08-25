@@ -1,20 +1,20 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <top-bar></top-bar>
+  <router-view></router-view>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import topBar from './components/topBar.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    topBar
   }
 }
 </script>
 
-<style>
+<style lang="scss">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -22,5 +22,13 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+a {
+  color:#2d74bb;
+  text-decoration: none;
+  transition: .3s;
+  &:hover {
+    color: #00b6dd;
+  }
 }
 </style>
