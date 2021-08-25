@@ -31,6 +31,8 @@
     padding: 16px 0;
     a {
         margin: 0 8px 0px 0;
+        font-size: 16px;
+        font-weight: bold;
         &:last-child {
             margin-right: 0;
         }

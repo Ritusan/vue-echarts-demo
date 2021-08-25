@@ -24,11 +24,13 @@ export default {
   margin-top: 60px;
 }
 a {
-  color:#2d74bb;
+  // color:#2d74bb;
+  color: #ef7c21;
   text-decoration: none;
   transition: .3s;
   &:hover {
-    color: #00b6dd;
+    // color: #00b6dd;
+    color: #f8ba62;
   }
 }
 </style>
