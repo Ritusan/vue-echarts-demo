@@ -1,0 +1,23 @@
+.chart-header {
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
+    h2 {
+        position: relative;
+        font-size: 12px;
+        color: #333;
+        font-weight: 600;
+        line-height: 1;
+        margin-bottom: 0px;
+        padding-left: 12px;
+        &:before {
+            content: '';
+            display: inline-block;
+            position: absolute;
+            left: 0;
+            width: 4px;
+            height: 12px;
+            background: #3ab0e6;
+        }
+    }
+  }
