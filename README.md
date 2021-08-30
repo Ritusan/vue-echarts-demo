@@ -1,3 +1,18 @@
+<div align="center">
+  <h1>my-color-list</h1>
+  
+  <p>
+    <img src="https://badgen.net/github/license/Ritusan/vue-echarts-demo" alt="LICENSE" />
+    <img src="https://badgen.net/github/last-commit/Ritusan/vue-echarts-demo?label=last%20update" alt="LAST COMMIT" />
+    <img src="https://badgen.net/github/commits/Ritusan/vue-echarts-demo" alt="test" />
+  </p>
+  
+  <p>:heart: echarts demo - :+1: 实用的echarts demo</p>
+  <p><i></i></p>
+</div>
+
+<br />
+
 # vue-echarts-demo
 
 ## Project setup
