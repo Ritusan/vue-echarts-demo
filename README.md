@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>my-color-list</h1>
+  <h1>vue-echarts-demo</h1>
   
   <p>
     <img src="https://badgen.net/github/license/Ritusan/vue-echarts-demo" alt="LICENSE" />
