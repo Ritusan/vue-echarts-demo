@@ -5,8 +5,8 @@
     <img src="https://img.shields.io/github/languages/code-size/Ritusan/vue-echarts-demo" alt="code-size" />
     <img src="https://img.shields.io/github/package-json/dependency-version/Ritusan/vue-echarts-demo/vue" alt="dependency-version" />
     <img src="https://img.shields.io/github/languages/count/Ritusan/vue-echarts-demo" alt="languages-count" />
-    <img src="https://img.shields.io/github/languages/top/Ritusan/vue-echarts-demo" alt="languages-top" />
-    <img src="https://img.shields.io/github/package-json/v/Ritusan/vue-echarts-demo" alt="languages-top" />
+    <img src="https://img.shields.io/github/languages/top/Ritusan/vue-echarts-demo?color=yellow" alt="languages-top" />
+    <img src="https://img.shields.io/github/package-json/v/Ritusan/vue-echarts-demo" alt="version" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/Author-Ritusan-blueviolet" alt="Author" />
