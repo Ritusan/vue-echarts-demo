@@ -6,7 +6,8 @@
     <img src="https://img.shields.io/github/last-commit/Ritusan/vue-echarts-demo" alt="last-commit" />
     <img src="https://img.shields.io/github/package-json/dependency-version/Ritusan/vue-echarts-demo/vue" alt="dependency-version" />
     <img src="https://img.shields.io/github/languages/count/Ritusan/vue-echarts-demo" alt="languages-count" />
-    <img src="https://img.shields.io/github/languages/top/RItusan/vue-echarts-demo" alt="languages-top" />
+    <img src="https://img.shields.io/github/languages/top/Ritusan/vue-echarts-demo" alt="languages-top" />
+    <img src="https://img.shields.io/badge/Author-Ritusan-blueviolet" alt="Author" />
   </p>
   
   <p>:heart: echarts demo - :+1: 实用的echarts demo</p>
