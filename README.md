@@ -8,11 +8,11 @@
     <img src="https://img.shields.io/github/languages/top/Ritusan/vue-echarts-demo?color=yellow" alt="languages-top" />
     <img src="https://img.shields.io/github/package-json/v/Ritusan/vue-echarts-demo" alt="version" />
   </div>
-  <div>
+  <p>
     <img src="https://img.shields.io/badge/Author-Ritusan-blueviolet" alt="Author" />
     <img src="https://img.shields.io/github/last-commit/Ritusan/vue-echarts-demo" alt="last-commit" />
     <img src="https://img.shields.io/badge/-Echarts-%23e66563" alt="Echarts" />
-  </div>
+  </p>
   
   <p>:heart: echarts demo - :+1: 实用的echarts demo</p>
   <p><i></i></p>
