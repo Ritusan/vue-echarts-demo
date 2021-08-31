@@ -2,9 +2,9 @@
   <h1>vue-echarts-demo</h1>
   
   <p>
-    <img src="https://badgen.net/github/license/Ritusan/vue-echarts-demo" alt="LICENSE" />
-    <img src="https://badgen.net/github/last-commit/Ritusan/vue-echarts-demo?label=last%20update" alt="LAST COMMIT" />
-    <img src="https://badgen.net/github/commits/Ritusan/vue-echarts-demo" alt="test" />
+    <img src="https://img.shields.io/github/languages/code-size/Ritusan/vue-echarts-demo" alt="code-size" />
+    <img src="https://img.shields.io/github/last-commit/Ritusan/vue-echarts-demo" alt="last-commit" />
+    <img src="https://img.shields.io/github/package-json/dependency-version/Ritusan/vue-echarts-demo/vue" alt="dependency-version" />
   </p>
   
   <p>:heart: echarts demo - :+1: 实用的echarts demo</p>
